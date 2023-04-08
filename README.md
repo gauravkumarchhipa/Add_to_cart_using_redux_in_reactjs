@@ -16,4 +16,4 @@ Open [http://localhost:3000]
 "react-router-dom": "^6.9.0",
 "sass": "^1.59.3"
 # Description 
-This React app is Redux toolkit using using state manage. This Project in dynamicaly add to cart a product. and practice of redux.
+This React app is Redux toolkit using using state manage. This Project in dynamically add to cart a product. and practice of redux.
